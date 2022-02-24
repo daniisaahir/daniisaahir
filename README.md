@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniisaahir
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python and Docker
+- 🇲🇾 I’m from Penang, Malaysia
+- 🌱 I’m currently learning Python
 
 <!---
 daniisaahir/daniisaahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
